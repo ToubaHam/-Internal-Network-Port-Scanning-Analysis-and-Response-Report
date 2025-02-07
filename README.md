@@ -1,4 +1,7 @@
 # 🔒 Internal Network Port Scanning Analysis and Response Report
+![image](https://github.com/user-attachments/assets/3bbb1bb9-04ab-4c9c-bf2a-6f78b723fe25)
+
+
 
 ## 🔍 Scenario Overview
 
